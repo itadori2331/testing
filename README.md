@@ -1,6 +1,3 @@
-theme: artjames-theme-minimal
-title: artjames homepage
-description: A portfolio for my virtual assistant journey
 [index.html](https://github.com/user-attachments/files/27563039/index.html)
 
 <!doctype html>
